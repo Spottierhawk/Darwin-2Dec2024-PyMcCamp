@@ -40,7 +40,33 @@ def Calculator(num1,num2):
 
 
 
-Calculator(78787,14)
+Calculator(534,6)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
